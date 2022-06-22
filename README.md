@@ -1,1 +1,1 @@
-# Image_classification_via_convolutional_neural_networks_Machine_learning
+# Image classification via convolutional neural networks
